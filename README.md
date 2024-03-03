@@ -1,0 +1,2 @@
+# bioinfoBasics
+basics of bioinformatics
